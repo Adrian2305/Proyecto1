@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+body {
+  background-color: #444444;
+  padding: 1rem;
+  vertical-align: top;
+  max-width: 40%;
+  transform: translate(120px, 20px);
+}
+form {
+  background-color: #f3f3f3;
+  padding: 30px;
+}
+form input {
+  width: 90%;
+  padding: 7px;
+}
+.logo {
+  display: block;
+  margin: 0 auto;
+  max-width: 60px;
+}
+.texto {
+  text-align: center;
+}
+.idiomas {
+  width: 100%;
+}
